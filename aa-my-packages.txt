@@ -1,0 +1,13 @@
+# Packages
+
+kitty - terminal
+pavucontrols - audio adjustments
+mpv - video player
+i3 - window manager
+ly - display manager
+ranger - file manager
+vim - terminal text editor
+vscode - code editor
+kora - icons
+paru - aur helper
+lxappearance - theme chooser
