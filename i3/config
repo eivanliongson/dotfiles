@@ -12,7 +12,7 @@ exec_always --no-startup-id $HOME/.config/i3/set-wallpaper.sh
 
 # Set window gaps
 gaps inner 10
-gaps outer 0
+gaps outer 15
 
 # Set window and border colors
 # Nordic colors.
