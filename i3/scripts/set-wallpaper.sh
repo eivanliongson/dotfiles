@@ -1,3 +1,3 @@
 #!/usr/bin/env bash 
 
-feh --bg-scale $HOME/pictures/walls/mike-hindle.jpg
+feh --bg-scale $HOME/pictures/walls/wolfgang-hasselmann.jpg
