@@ -28,6 +28,8 @@ client.focused $gray $gray $white $gray $gray
 # Thin border/Hide border
 hide_edge_borders both
 
+# Remove window border
+default_border none
 
 # Set mouse speed
 exec_always --no-startup-id xinput --set-prop 11 'libinput Accel Speed' -0.8
