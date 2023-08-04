@@ -7,5 +7,7 @@
 /pulse
 /pavucontrol
 /pavucontrol.ini
-./i3/scripts/set-wallpaper.sh
+/i3/scripts/set-wallpaper.sh
 /Slack
+/Thunar
+/xfce4
