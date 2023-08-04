@@ -38,6 +38,11 @@ exec_always --no-startup-id xinput --set-prop 9 'libinput Accel Speed' -0.8
 # Start polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
+# Screenshot selection using maim
+
+
+bindsym $mod+Shift+p exec maim -s ~/Pictures/$(date +%s).png
+
 # Font Setting 
 font pango: JetBrainsMono Nerd Font 8
 
