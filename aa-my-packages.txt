@@ -12,3 +12,4 @@ kora - icons
 paru - aur helper
 lxappearance - theme chooser
 font - jetbrains mono nerd font
+nitrogen - wallpapers

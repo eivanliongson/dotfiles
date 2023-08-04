@@ -7,8 +7,10 @@
 set $mod Mod4
 
 # Set background using feh
-exec_always --no-startup-id $HOME/.config/i3/scripts/set-wallpaper.sh 
+# exec_always --no-startup-id $HOME/.config/i3/scripts/set-wallpaper.sh 
 
+# Exec nitrogen for wallpapers
+exec_always --no-startup-id nitrogen --restore
 
 # Set window gaps
 gaps inner 10
